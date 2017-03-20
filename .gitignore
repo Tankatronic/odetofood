@@ -1,0 +1,5 @@
+.vs/*
+.nuget/*
+**/bin/*
+**/obj/*
+packages/**
